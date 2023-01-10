@@ -1,0 +1,92 @@
+{
+    "users": [
+        {
+            "name": "Arapu Trevor",
+            "age": "26",
+            "isProgrammer": true,
+            "skills": ["html", "css", "javascript"],
+            "address": {
+                "city": "Kampala",
+                "state": "Mukono",
+                "country": "Uganda"
+            }
+        },
+        {
+            "name": "Arapu Morris",
+            "age": "28",
+            "isProgrammer": true,
+            "skills": ["Python", "javascript"],
+            "address": {
+                "city": "Kampala",
+                "state": "Nakawa",
+                "country": "Uganda"
+            }
+        },
+        {
+            "name": " Bethia Ida",
+            "age": "29",
+            "isProgrammer": false,
+            "skills": ["figma", "Adobe XD"],
+            "address": {
+                "city": "Kampala",
+                "state": "Mukono",
+                "country": "Uganda"
+            }
+        },
+        {
+            "name": "Titus Isaac",
+            "age": "16",
+            "isProgrammer": true,
+            "skills": ["python", "javascript"],
+            "address": {
+                "city": "Kampala",
+                "state": "Entebbe",
+                "country": "Uganda"
+            }
+        },
+        {
+            "name": "Jessica Isenged",
+            "age": "20",
+            "isProgrammer": false,
+            "skills": ["Excel", "Accounting"],
+            "address": {
+                "city": "Kampala",
+                "state": "Mukono",
+                "country": "Uganda"
+            }
+        },
+        {
+            "name": "Walter Okodan",
+            "age": "40",
+            "isProgrammer": false,
+            "skills": ["design", "Excel"],
+            "address": {
+                "city": "Kampala",
+                "state": "Mukono",
+                "country": "Uganda"
+            }
+        },
+        {
+            "name": "Lois Asekenye",
+            "age": "40",
+            "isProgrammer": false,
+            "skills": ["sales", "Marketing"],
+            "address": {
+                "city": "Kampala",
+                "state": "Mukono",
+                "country": "Uganda"
+            }
+        },
+        {
+            "name": "Okodan Moses",
+            "age": "50",
+            "isProgrammer": false,
+            "skills": ["Management", "figma"],
+            "address": {
+                "city": "Kampala",
+                "state": "Mukono",
+                "country": "Uganda"
+            }
+        }
+    ]
+}
